@@ -11,6 +11,7 @@ INSTALLED_ADDONS = [
     'djangocms-file',
     'djangocms-googlemap',
     'djangocms-link',
+    'aldryn-newsblog',
     'djangocms-picture',
     'djangocms-snippet',
     'djangocms-style',
